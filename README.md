@@ -1,2 +1,2 @@
 # GD-Whalepass
-Whalepass bindings for Godot
+Whalepass SDK for Godot
